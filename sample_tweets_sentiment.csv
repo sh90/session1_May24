@@ -1,0 +1,16 @@
+id,tweet,sentiment
+1,I love the new phone update! It's so fast and smooth.,positive
+2,"Ugh, the app keeps crashing after the latest update. So annoying.",negative
+3,"Just had coffee at the new cafe. It was okay, nothing special.",neutral
+4,Can't believe how beautiful the weather is today!,positive
+5,Terrible service at the restaurant last night.,negative
+6,Looking forward to the weekend!,positive
+7,The new movie was a total disappointment.,negative
+8,Traffic was awful this morning.,negative
+9,Had a decent day at work.,neutral
+10,Feeling super productive and motivated today!,positive
+11,I'm so tired of this rain.,negative
+12,What a fantastic goal in the match!,positive
+13,The concert last night was unforgettable.,positive
+14,Still waiting for my package…,neutral
+15,I don't recommend this book at all.,negative
